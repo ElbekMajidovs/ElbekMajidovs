@@ -83,19 +83,17 @@
 
 <!-- Top Languages Card -->
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukhammadkodir27&show_icons=true&locale=en&layout=compact" alt="mukhammadkodir27's Top Languages" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ElbekMajidovs&show_icons=true&locale=en&layout=compact" alt="ElbekMajidovs's Top Languages" />
 </p>
 
 <!-- GitHub Stats Card -->
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mukhammadkodir27&show_icons=true&locale=en" alt="mukhammadkodir27's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElbekMajidovs&show_icons=true&locale=en" alt="ElbekMajidovs's GitHub Stats" />
 </p>
 
 <!-- GitHub Streak Stats Card -->
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukhammadkodir27" alt="mukhammadkodir27's GitHub Streak" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ElbekMajidovs" alt="ElbekMajidovs's GitHub Streak" />
 </p>
 
-<!-- [Mukhammadkodir_Abdusalomov_Resume.pdf](https://github.com/Mukhammadkodir27/Mukhammadkodir27/blob/main/Mukhammadkodir_Abdusalomov.pdf) -->
-
-
+<!-- [Elbek_Majidov_Resume.pdf](https://github.com/ElbekMajidovs/ElbekMajidovs/blob/main/Elbek_Majidov_Resume.pdf) -->
